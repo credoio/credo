@@ -1,4 +1,4 @@
-package megadodo
+package credo
 
 import (
 	"fmt"

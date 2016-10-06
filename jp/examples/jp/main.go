@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"github.com/credoio/megadodo/jp"
+	"github.com/credoio/credo/jp"
 	"io/ioutil"
 	"os"
 	"reflect"
